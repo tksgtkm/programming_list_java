@@ -1,0 +1,2 @@
+rootProject.name = "abstract-document"
+include "abstract_document"
