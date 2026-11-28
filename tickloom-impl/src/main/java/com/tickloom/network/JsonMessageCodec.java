@@ -11,7 +11,6 @@ import com.fasterxml.jackson.databind.module.SimpleModule;
 import com.fasterxml.jackson.datatype.jdk8.Jdk8Module;
 import com.tickloom.messaging.MessageType;
 
-import java.io.EOFException;
 import java.io.IOException;
 
 public class JsonMessageCodec implements  MessageCodec {
